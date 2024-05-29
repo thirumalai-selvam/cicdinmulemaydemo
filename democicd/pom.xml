@@ -36,7 +36,7 @@
 						<username>democicdmay</username>
 						<password>Democicd@2553</password>
 						<environment>Sandbox</environment>
-						<muleVersion>4.6.3</muleVersion>
+						<muleVersion>4.6.0</muleVersion>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>democicdmay2553</applicationName>
